@@ -1,4 +1,4 @@
-# 🚢 Battleship Command: A Tactical Naval Combat Experience
+# 🚢 Battleship Command (C++/SFML)
 
 ### 📋 Project Overview
 **Battleship Command** is a high-stakes, grid-based strategy game developed from the ground up using **C++** and the **SFML (Simple and Fast Multimedia Library)**. This project represents my journey from understanding core programming logic to implementing a fully functional graphical user interface (GUI) with real-time audio and state management.
